@@ -1,0 +1,10 @@
+Wed Apr  5 22:09:47 UTC 2023
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p1   20G  9.1G   11G  46% /
+ 1004  rm homework.txt. 
+ 1005  ls
+ 1006  date > homework.txt
+ 1007  df -h / >> homework.txt 
+ 1008  history | tail -n 5 >> homework.txt
+AuthenticAMD
+128
